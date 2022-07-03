@@ -1,6 +1,6 @@
 # Annualized_Rate.v.1.3
 AIM : Annualized rate and income conversion
-![HOME.png](https://github.com/liushuqing506/Ebbinghaus_Memory_System.v1.3/blob/main/img/HOME.png)
+![HOME.png](https://github.com/liushuqing506/Annualized_Rate.v.1.3/blob/main/image/HOME.png)
 ## 1. Unzip .zip
 >>Annualized_Rate.zip
 ## 2. Execute .exe
